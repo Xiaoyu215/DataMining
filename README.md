@@ -4,7 +4,11 @@
 
 👉 **The main deliverable is [`Main.ipynb`](https://github.com/Xiaoyu215/DataMining/blob/main/Main.ipynb)** — start there.
 
-🎬 **Project video:** [▶ Watch the walkthrough](https://youtu.be/SYTr_wjy1Lo)
+🎬 **Introduction video:** [▶ Watch the intro](https://youtu.be/SYTr_wjy1Lo)
+
+🌎 **Website:** [Quick look here]()
+
+
 
 ---
 
